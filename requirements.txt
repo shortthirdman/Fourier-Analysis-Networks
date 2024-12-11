@@ -1,0 +1,13 @@
+numpy
+pandas
+seaborn
+matplotlib
+statsmodels
+featuretools
+scikit-learn
+notebook
+jupyterlab
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+jupyter-lsp
+jupyterlab-lsp
